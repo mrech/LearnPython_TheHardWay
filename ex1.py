@@ -1,4 +1,5 @@
 #ex1
+# Print different messages
 print("Hello World!")
 print('Yay! Printing.')
 print("I'd much rather you 'not'.")
