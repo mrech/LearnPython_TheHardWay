@@ -4,6 +4,6 @@
 - OS: Ubuntu 18.04 LTS
 
 
-ex45.py - YOU MAKE A GAME: Lost in the forest
+### ex45.py - 'YOU MAKE A GAME: Lost in the forest'
 - dependency: engine.py
-- run: python3 ex45.py main_path
+- bash run: python3 ex45.py main_path
