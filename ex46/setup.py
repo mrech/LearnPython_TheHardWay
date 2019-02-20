@@ -12,7 +12,7 @@ config = {
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['ex46_sum'],
-    'scripts': ['bin/bin_sum'],
+    'scripts': ['bin/bin_sum.py'],
     'name': 'ex46_sum'
 }
 
